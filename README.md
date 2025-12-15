@@ -121,6 +121,13 @@ Apply feature scaling and normalization to improve performance.
 
 🧑‍💻 Author
 
-Kanha Patidar
-B.Tech (CSIT) — Chamelidevi Group of Institutions, Indore
+Developed by **Kanha Patidar**
+
+Branch: B.Tech CSIT
+
+Semester: 5th Sem
+
+College: Chameli Devi Group of Institutions, Indore
+
+
 Project: House Price Prediction using Linear Regression
