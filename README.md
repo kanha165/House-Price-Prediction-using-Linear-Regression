@@ -119,8 +119,7 @@ Build a Flask or Streamlit web interface for real-time predictions.
 
 Apply feature scaling and normalization to improve performance.
 
-🧑‍💻 Author
-
+**Author**
 Developed by **Kanha Patidar**
 
 Branch: B.Tech CSIT
@@ -129,5 +128,6 @@ Semester: 5th Sem
 
 College: Chameli Devi Group of Institutions, Indore
 
+Machine Learning inten at technorizen software solution. indore 
 
 Project: House Price Prediction using Linear Regression
